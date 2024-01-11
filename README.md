@@ -2,7 +2,7 @@
 # APIs and Machine Learning
 
 ### Introduction to APIs
-- What is an API?
+- [What is an API](https://www.freecodecamp.org/news/what-is-an-api-in-english-please-b880a3214a82/)?
   - What do we use them for? Why?
 - HTTP(s)
   - Requests/Responses
