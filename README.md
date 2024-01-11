@@ -23,3 +23,11 @@
     ```
     Create a command line chat script that communicated with ChatGPT via the API
     ```
+
+- [Pandas](https://pandas.pydata.org/)
+  - What is it?
+  - Dataframes
+  - EXERCISE
+  ```
+  Load this data from our API and put it into a Pandas Dataframe
+  ```
