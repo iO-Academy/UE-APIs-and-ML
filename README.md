@@ -2,13 +2,14 @@
 # APIs and Machine Learning
 
 ### Introduction to APIs
-- What is an API?
+- [What is an API](https://www.freecodecamp.org/news/what-is-an-api-in-english-please-b880a3214a82/)?
   - What do we use them for? Why?
 - HTTP(s)
   - Requests/Responses
 - API Structures
-  - REST
+  - [REST](https://restful-api.dev/rest-fundamentals/#rest)
   - GraphQL
+    - [Demo](https://countries.trevorblades.com/)
 - HTTP Requests from Python
   - [Requests](https://pypi.org/project/requests/) lib
   - EXERCISE
