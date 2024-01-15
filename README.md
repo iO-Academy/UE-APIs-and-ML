@@ -7,8 +7,9 @@
 - HTTP(s)
   - Requests/Responses
 - API Structures
-  - REST
+  - [REST](https://restful-api.dev/rest-fundamentals/#rest)
   - GraphQL
+    - [Demo](https://countries.trevorblades.com/)
 - HTTP Requests from Python
   - [Requests](https://pypi.org/project/requests/) lib
   - EXERCISE
