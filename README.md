@@ -4,17 +4,26 @@
 ### Introduction to APIs
 - [What is an API](https://www.freecodecamp.org/news/what-is-an-api-in-english-please-b880a3214a82/)?
   - What do we use them for? Why?
+  <img src="./rest-api.png" width="450" />
 - HTTP(s)
   - Requests/Responses
 - API Structures
   - [REST](https://restful-api.dev/rest-fundamentals/#rest)
+    - [HTTP Verbs](https://restful-api.dev/rest-fundamentals/#get)
+    - [HTTP Status Codes](https://www.restapitutorial.com/httpstatuscodes.html)
+    - URL Structures (Resources)
   - GraphQL
+    - Problems with REST
     - [Demo](https://countries.trevorblades.com/)
 - HTTP Requests from Python
   - [Requests](https://pypi.org/project/requests/) lib
-  - EXERCISE
+  - EXERCISE 1 - GETting data
     ```
-    Request [common API] and output [data]
+    Get the latest Bitcoin price data and output the price of one bitcoin in USD
+    ```
+  - EXERCISE 2 - POSTing data
+    ```
+    Create a post request ...
     ```
 - [ChatGPT API](https://platform.openai.com/docs/quickstart?context=python)
   - [API keys](https://platform.openai.com/api-keys)
