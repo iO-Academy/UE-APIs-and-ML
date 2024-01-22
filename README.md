@@ -34,15 +34,15 @@
   - [API keys](https://platform.openai.com/api-keys)
   - [OpenAi pip library](https://pypi.org/project/openai/)
     - `pip install --upgrade openai`
-  - EXERCISE
+  - EXERCISE 4 - Recreate a lecturer
     ```
-    Create a command line chat script that communicated with ChatGPT via the API
+    Simulate a lecturer for a Masters in Finance, Technology and Policy having a conversation with you, a student
     ```
 
 - [Pandas](https://pandas.pydata.org/)
   - What is it?
   - Dataframes
-  - EXERCISE
+  - EXERCISE 5
   ```
-  Load this data from our API and put it into a Pandas Dataframe
+  Load credit card fraud data from our API and put it into a Pandas Dataframe
   ```
