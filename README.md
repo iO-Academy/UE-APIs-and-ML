@@ -2,7 +2,7 @@
 # APIs and Machine Learning
 
 ### Pre-course material
-Before this course starts, please follow the guide linked below:
+Before this course starts, please follow the guide linked below:  
 [Pre-course guide](./prep-course.md)
 
 ### Introduction to APIs
