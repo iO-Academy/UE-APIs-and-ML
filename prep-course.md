@@ -19,4 +19,4 @@ Once installed, you can turn on the workbook by running the below command from t
 
 This should open the notebook navigator in your browser window.
 
-You are now all set to begin this course.
+You are now all set to begin this course. [Return to course curriculum](https://github.com/iO-Academy/UE-APIs-and-ML/tree/main).
