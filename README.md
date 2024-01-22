@@ -1,6 +1,10 @@
 ### University of Edinburgh 
 # APIs and Machine Learning
 
+### Pre-course material
+Before this course starts, please follow the guide linked below:
+[Pre-course guide](./prep-course.md)
+
 ### Introduction to APIs
 - [What is an API](https://www.freecodecamp.org/news/what-is-an-api-in-english-please-b880a3214a82/)?
   - What do we use them for? Why?
