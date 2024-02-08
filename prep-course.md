@@ -10,6 +10,9 @@ Install the following `pip` packages:
 - requests
 - openai
 - pandas
+- numpy
+- matplotlib
+- sklearn
 - notebook
 
 All packages can be installed by running `pip install <package name>` from a command line interface.
