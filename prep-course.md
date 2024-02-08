@@ -3,7 +3,8 @@
 Begin by downloading the files in this repo by clicking the green "Code" button on the below link, then select "Download Zip":
 https://github.com/iO-Academy/UE-APIs-and-ML/tree/main
 
-Ensure you have Python 3.10 or above installed
+Ensure you have Python 3.10 or above installed:  
+[https://www.python.org/downloads/](https://www.python.org/downloads/)
 
 Install the following `pip` packages:
 - requests
