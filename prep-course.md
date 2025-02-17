@@ -12,7 +12,7 @@ Install the following `pip` packages:
 - pandas
 - numpy
 - matplotlib
-- sklearn
+- scikit-learn
 - notebook
 
 All packages can be installed by running `pip install <package name>` from a command line interface.
